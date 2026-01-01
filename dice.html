@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Story Generator Dice</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <img src="images/frog.png" alt="Dice" id="dice-img" style="border-bottom: 4px solid #333;">
+
+    <h1>Characters & Hobbies</h1>
+
+    <div class="container">
+
+        <div class="card" id="char-card">
+
+            <img src="images/dice.png" alt="Character" class="card-img" id="char-img">
+            <div class="card-content">
+                <div class="label">Character</div>
+                <div class="result" id="char-result">Ready?</div>
+            </div>
+        </div>
+
+
+        <div class="card" id="hobby-card">
+            <img src="images/dice.png" alt="Hobby" class="card-img" id="hobby-img">
+            <div class="card-content">
+                <div class="label">New Hobby</div>
+                <div class="result" id="hobby-result">Ready?</div>
+            </div>
+        </div>
+
+        <button id="spin-btn" onclick="spinDice()">Roll the Dice</button>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
