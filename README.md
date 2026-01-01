@@ -34,3 +34,7 @@ By clicking the **"Roll the Dice"** button, the application randomly pairs a pop
 ## Credits
 - **Typography:** I haven't found the source from which I downloaded this typography, I will link it once I know.
 - **Images:** I don't own any of the images in this project as it was a quick work-around to make a writing exercise more interactive. The frog wizard pixel art belongs to 508meaw8 on [dinopixel](https://dinopixel.com/frog-with-wizard-hat-pixel-art-18891).
+
+## License & attribution
+You can use this project for your own class, fork it and edit it or do anything you want! :)
+It is subjected to the MIT License.
